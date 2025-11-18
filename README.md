@@ -82,12 +82,3 @@ backend/
 └── appsettings.json
 ```
 
-## Coursera Activity Requirements Met
-
-- ✓ CRUD endpoints (GET, POST, PUT, DELETE)
-- ✓ Input validation (required fields, email format, duplicates)
-- ✓ Error handling (try-catch, consistent JSON responses)
-- ✓ Logging middleware (HTTP method, path, status code)
-- ✓ Authentication middleware (token validation)
-- ✓ Error handling middleware (unhandled exceptions)
-- ✓ Proper middleware pipeline order
